@@ -110,7 +110,7 @@ const { products, addItem } = useContext(ProductContext);
 
 - Artık sepet verilerimizi sağladığımıza göre, "Navigation" ve "ShoppingCart" bileşenlerimizi yeniden düzenlemeye başlayabiliriz.
 
-- Önce `ShoppingCart` bileşenimizle başlayalım. Devam edin ve "ShoppingCart" routeunu, render statelerini kullanmaya gerek kalmayacak şekilde yeniden düzenleyin. Bu bize bir hata verecektir, ancak bunu hızlı bir şekilde çözeceğiz.
+- ? Önce `ShoppingCart` bileşenimizle başlayalım. Devam edin ve "ShoppingCart" routeunu, render statelerini kullanmaya gerek kalmayacak şekilde yeniden düzenleyin. Bu bize bir hata verecektir, ancak bunu hızlı bir şekilde çözeceğiz.
 
 - Bu sırada devam edelim ve propları navigasyonumuzdan da kaldıralım.
 
